@@ -1,3 +1,7 @@
+# Screenshot
+
+![Screenshot](https://github.com/Vaibhavbhagat321/Natours/blob/main/ss.png?raw=true)
+
 # Getting started with this project
 
 This project was build in pure HTML, CSS and SCSS.
